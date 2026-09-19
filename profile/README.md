@@ -23,7 +23,7 @@ The foundation was launched in November 2021. Read the announcement: [The New Li
 
 <a href="https://jetbrains.com/"><img src="https://thephp.foundation/assets/sponsors/jetbrains.png" alt="JetBrains" height="80"></a>&nbsp;&nbsp;
 <a href="https://automattic.com/"><img src="https://thephp.foundation/assets/sponsors/automattic.png" alt="Automattic" height="80"></a>&nbsp;&nbsp;
-<a href="https://www.sovereign.tech/"><img src="https://thephp.foundation/assets/sponsors/STA-Logo-Default-Black-RGB.svg" alt="Sovereign Tech Agency" height="144"></a>&nbsp;&nbsp;
+<a href="https://www.sovereign.tech/"><img src="https://thephp.foundation/assets/sponsors/STA-Logo-Default-Black-RGB.svg" alt="Sovereign Tech Agency" height="80"></a>&nbsp;&nbsp;
 <a href="https://alpha-omega.dev/"><img src="https://thephp.foundation/assets/sponsors/a-o-logo.svg" alt="Alpha-Omega" height="80"></a>
 
 <a href="https://opencollective.com/phpfoundation/contribute/major-sponsors-34207/checkout?interval=year&amount=12000&contributeAs=me"><img src="https://img.shields.io/badge/Become_a_Platinum_Sponsor-6858f6?style=for-the-badge&logo=opencollective&logoColor=white" alt="Become a Platinum Sponsor"></a>
@@ -35,6 +35,8 @@ The foundation was launched in November 2021. Read the announcement: [The New Li
 
 <a href="https://opencollective.com/phpfoundation/contribute/gold-sponsor-68774/checkout"><img src="https://img.shields.io/badge/Become_a_Gold_Sponsor-6858f6?style=for-the-badge&logo=opencollective&logoColor=white" alt="Become a Gold Sponsor"></a>
 
----
+## Become a sponsor
+
+Silver, Gold, and Platinum sponsorships are available, and contributions of any size are welcome.
 
 **[Learn about all sponsorship opportunities →](https://thephp.foundation/sponsor/)**
